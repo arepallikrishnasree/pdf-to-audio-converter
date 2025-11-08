@@ -1,0 +1,7 @@
+# Output Files ni ignore cheyadaniki
+*_audio.mp3
+*.mp3
+*.wav
+
+# PDF files ni ignore cheyadaniki
+*.pdf
