@@ -1,6 +1,6 @@
 import PyPDF2 # PDF nunchi text chadavadaniki
 import pyttsx3 # Text ni audio ga marusthundhi
-
+import argparse
 # 1. PDF file open cheyyali (Meeru convert cheyyalani anukuntunna file name ikkada petandi)
 pdf_path = 'Kumar Garu invitation letter.pdf' # <--- Ee peru ni change cheyyandi!
 
